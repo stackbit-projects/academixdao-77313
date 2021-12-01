@@ -56,9 +56,12 @@ sections:
     title: Where did everyone go?
     text: >
       Academic publishing is the primary method in which scientific knowledge is
-      distributed. Currently, the vast majority of published material is
-      distributed by 5 centralized, for-profit companies with one of the highest
-      profit margins across all industries.
+      distributed. From COVID-19 to gene editing technology  like CRISPR and
+      future energy technologies, this information is relevant to all of us.
+      Currently, the vast majority of published material is distributed by 5
+      centralized, for-profit companies with one of the highest profit margins
+      across all industries all while keeping the vast majority of the
+      information restricted by paywalls.
     actions:
       - type: Button
         label: Sign Up
