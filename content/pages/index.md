@@ -108,7 +108,7 @@ sections:
       type: ImageBlock
   - colors: colors-i
     elementId: ''
-    title: AcademixDAO is a community owned and governed organization
+    title: AcademixDAO is a community owned and governed publishing organization
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
