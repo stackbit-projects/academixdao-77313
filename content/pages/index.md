@@ -52,7 +52,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-b
+    colors: colors-f
     title: Where did everyone go?
     text: >
       Academic publishing is the primary method in which scientific knowledge is
