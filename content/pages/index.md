@@ -71,11 +71,6 @@ sections:
         label: Sign Up
         url: /
         style: primary
-      - type: Link
-        label: Watch Video
-        url: /
-        showIcon: true
-        icon: arrowRight
     styles:
       self:
         height: auto
