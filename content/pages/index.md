@@ -55,8 +55,10 @@ sections:
     colors: colors-f
     title: Where did everyone go?
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      Academic publishing is the primary method in which scientific knowledge is
+      distributed. Currently, the vast majority of published material is
+      distributed by 5 centralized, for-profit companies with one of the highest
+      profit margins across all industries.
     actions:
       - type: Button
         label: Sign Up
