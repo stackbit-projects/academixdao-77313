@@ -108,7 +108,7 @@ sections:
       type: ImageBlock
   - colors: colors-i
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: AcademixDAO
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
