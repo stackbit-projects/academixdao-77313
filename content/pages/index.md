@@ -106,7 +106,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-h
+  - colors: colors-i
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
     subtitle: >-
