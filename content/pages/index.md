@@ -111,7 +111,10 @@ sections:
     title: >-
       AcademixDAO is a community owned and governed academic publishing
       organization
-    subtitle: Academix integrates all features of a traditional academic journal
+    subtitle: >-
+      Academix builds and integrates all features of a traditional academic
+      journal while ensuring continual community governance through
+      incentivization mechanisms on desirable actions.
     items:
       - type: FeaturedItem
         title: Faster
