@@ -52,7 +52,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     title: Why Publishing?
     text: >
       Academic publishing is the primary method in which scientific knowledge is
