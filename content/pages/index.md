@@ -114,7 +114,9 @@ sections:
     subtitle: >-
       Academix builds and integrates all features of an academic journal while
       ensuring continual community governance through incentivization mechanisms
-      on desirable actions vital to research & science.
+      on desirable actions vital to research & science. While this includes
+      traditional mechanisms of academic publishing, we also promote ancillary
+      functions such as marketing and dispersion of published material.
     items:
       - type: FeaturedItem
         title: Faster
