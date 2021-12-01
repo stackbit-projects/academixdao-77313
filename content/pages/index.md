@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'We''re making Academic Publishing democratic, fair, and equitable.'
+    title: We're decentralizing Academic Publishing
     text: >+
       A decentralized collective that aims to administer, manage, finance,
       review, and disperse scientific and research-oriented literature using
