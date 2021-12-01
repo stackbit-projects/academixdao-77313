@@ -6,10 +6,11 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: 'We''re making Academic Publishing democratic, fair, and equitable.'
-    text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >+
+      A decentralized collective that aims to administer, manage, finance,
+      review, and disperse scientific and research-oriented literature using
+      open and democractic methods.
+
     actions:
       - type: Button
         label: Sign up
