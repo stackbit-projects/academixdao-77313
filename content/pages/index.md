@@ -53,7 +53,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: Where did everyone go?
+    title: Why Publishing?
     text: >
       Academic publishing is the primary method in which scientific knowledge is
       distributed. From COVID-19 to gene editing technology  like CRISPR and
