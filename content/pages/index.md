@@ -51,6 +51,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: test
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
