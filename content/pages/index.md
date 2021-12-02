@@ -177,7 +177,7 @@ sections:
           will benefit the researchers who choose to publish with us while also
           benefiting participating citizens.
         featuredImage:
-          url: /images/focused.svg
+          url: /images/Collab-bro.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
