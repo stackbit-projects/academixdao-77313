@@ -153,7 +153,7 @@ sections:
           implemented actions to eliminate or minimize reliance on this metric
           and similar when evaluating a scientist.
         featuredImage:
-          url: /images/smarter.svg
+          url: /images/Segment-rafiki.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
