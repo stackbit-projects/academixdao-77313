@@ -9,7 +9,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "about",
+                "label": "Home",
                 "url": "/",
                 "altText": ""
             },
