@@ -57,15 +57,14 @@ sections:
     text: >
       Academic publishing is the primary method in which scientific knowledge is
       distributed. From COVID-19 to gene editing technology  like CRISPR and
-      future energy technologies, this information is relevant to all of us. 
-
-
+      future energy technologies, this information is relevant to all of us.
 
 
       Currently, the vast majority of published material is distributed by 5
       centralized, for-profit companies with one of the highest profit margins
-      across all industries all while keeping the vast majority of the
-      information restricted by paywalls.
+      across all industries all while providing little to no value in exchange.
+      In addition, they keep the vast majority of the information restricted by
+      paywalls - blocked from public access.
     actions:
       - type: Button
         label: Sign Up
