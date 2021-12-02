@@ -170,8 +170,13 @@ sections:
       - type: FeaturedItem
         title: The Community
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Currently, there is a large separation between the scientists
+          publishing research and the public consuming or involved in the
+          generation of knowledge. The DAO intends to bridge this gap as
+          research impacts every aspect of our lives. By incentivizing
+          activities such as marketing, communication, review, and storage - we
+          will benefit the researchers who choose to publish with us while also
+          benefiting participating citizens.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
