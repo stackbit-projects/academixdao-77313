@@ -121,8 +121,13 @@ sections:
       - type: FeaturedItem
         title: The DAO
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          A DAO (Decentralized Autonomous Organization) are digital
+          organizations that enable open collaboration, governance, and
+          community participation to the desired mission of the DAO. They have
+          no central organization or person managing them, rather they are owned
+          collectively by the participating community. They are organized in a
+          democratic way by making decisions based on proposals created from the
+          members.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
