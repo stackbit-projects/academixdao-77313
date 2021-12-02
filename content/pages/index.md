@@ -129,7 +129,7 @@ sections:
           democratic way by making decisions based on proposals created from the
           members.
         featuredImage:
-          url: /images/faster.svg
+          url: /images/Researching-bro.svg
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
