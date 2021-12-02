@@ -119,7 +119,7 @@ sections:
       functions such as marketing and dispersion of published material.
     items:
       - type: FeaturedItem
-        title: The Opportunity
+        title: The DAO
         text: >
           Learn how top tech companies have learned working remote using our
           product.
