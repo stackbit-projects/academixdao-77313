@@ -145,8 +145,14 @@ sections:
       - type: FeaturedItem
         title: The Opportunity
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Previous efforts to innovate in Academic Publishing have generally
+          failed primarily because of the reliance on Journal Impact Factor
+          (JIF) on the evaluation metrics of a scientist. This leads to
+          scientists striving to publish in these journals as this metric can
+          affect all aspects of their work including grants, job opportunities,
+          tenure evaluation, and committee selection. Governments have recently
+          implemented actions to eliminate or minimize reliance on this metric
+          and similar when evaluating a scientist.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
