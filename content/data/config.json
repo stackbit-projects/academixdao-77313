@@ -112,6 +112,15 @@
                 "icon": "twitter"
             },
             {
+                "label": "",
+                "altText": "Facebook",
+                "url": "/",
+                "showIcon": true,
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
+            },
+            {
                 "type": "Social",
                 "altText": "Instagram",
                 "url": "/",
