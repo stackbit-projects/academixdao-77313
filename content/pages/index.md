@@ -143,7 +143,7 @@ sections:
           text:
             textAlign: center
       - type: FeaturedItem
-        title: Smarter
+        title: The Opportunity
         text: >
           Learn how top tech companies have learned working remote using our
           product.
